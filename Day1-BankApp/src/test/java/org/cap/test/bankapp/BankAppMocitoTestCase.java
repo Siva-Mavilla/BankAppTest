@@ -14,7 +14,7 @@ import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
-
+  //Added this line  
 public class BankAppMocitoTestCase {
 	
 	@Mock
